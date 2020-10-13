@@ -1,0 +1,56 @@
+body{
+    color: #3d0a23;
+    background-image: url(img/fon3.jpg);
+    font-size: 36px;
+}
+
+.book{
+    font-family: 'Sansita Swashed', cursive;
+    margin-left: 70px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    font-size: 80px;
+    text-align: left;
+    color: #f7e1ec;
+}
+
+.author{
+    font-family: 'Inconsolata', monospace;
+    margin-left: 150px;
+    font-size: 50px;
+    text-align: left;
+    color: #f7e9f0;
+    margin-bottom: -105px;
+}
+
+.right{
+    background-color: #f7e9f0;
+    border: 3px solid #a38392;
+    text-align: center;
+    font-size: 18px;
+    width: 45%;
+    height: 500px;
+    color: #000;
+    margin-left: 48%;
+    margin-top: -610px;
+    padding: 20px;
+}
+
+.cont{
+    text-align: center;
+    color: #571233;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.page2{
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    width: 12px;
+}
+
+.gif{
+    margin-left: 510px;
+}
+
